@@ -1,2 +1,2 @@
 # hello-world
-First first repository, consequence of learning GitHub.
+My first repository, consequence of learning GitHub.
